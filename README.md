@@ -1,5 +1,19 @@
 # 🧩 Macros Poketibias
 
+## Macrao dos Guri v1.2.40
+
+[Baixar a versao 1.2.40](https://github.com/Snones3/MacrosPoketibias/releases/tag/macrao-v1.2.40).
+
+Atualize em **Configuracoes > Atualizacoes > Verificar agora**. Feche o Macrao e o cliente do jogo para concluir a instalacao. O atualizador preserva configuracoes, rota e licenca. Para instalar pelo ZIP, extraia e abra **Iniciar-Macrao.cmd**.
+
+O CaveBot agora distingue ausencia de movimento de bloqueio confirmado: em casa livre, repete uma vez a mesma direcao e pausa caso nao avance, sem inventar desvios. Leituras desatualizadas ou inconsistentes suspendem o movimento. O console registra direcao, casa tentada e estado do terreno. Mantidas a caminhada continua e a sequencia ao lado do destino que permanece ocupado.
+
+Tambem inclui o mapa da rota completa por andar, com waypoints numerados, zoom, mover o mapa com botao direito e editar pontos por arraste com a hunt parada ou pausada, preservando combos e tempos. Areas ainda desconhecidas ficam escuras; confira a casa no jogo ao editar nessas areas. Passagens de escada precisam ser gravadas novamente para mudar de lugar.
+
+Testes locais da navegacao e mapa completo passaram. A correcao 1.2.40 ainda precisa de observacao pratica na hunt. Telegram pessoal e arquivos pessoais nao acompanham o pacote.
+
+---
+
 ## Macrao dos Guri v1.2.38
 
 [Baixar a versao 1.2.38](https://github.com/Snones3/MacrosPoketibias/releases/tag/macrao-v1.2.38).
