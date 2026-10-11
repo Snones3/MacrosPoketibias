@@ -1,5 +1,17 @@
 # 🧩 Macros Poketibias
 
+## Macrao dos Guri v1.2.38
+
+[Baixar a versao 1.2.38](https://github.com/Snones3/MacrosPoketibias/releases/tag/macrao-v1.2.38).
+
+Quem ja usa pode atualizar em **Configuracoes > Atualizacoes > Verificar agora**. Feche o Macrao e o cliente do jogo para concluir a instalacao. O atualizador preserva configuracoes, rota e licenca. Para uma nova instalacao, extraia o ZIP e abra **Iniciar-Macrao.cmd**.
+
+Caminhada continua e caminho estavel no CaveBot. Quando o destino com teclas permanece ocupado em leituras sucessivas, executa o combo original a 1 SQM ao lado, sem circular. Tambem inclui escada comum mais rapida, IDs de itens nos equipamentos e backpacks abertas, abertura sem conexao e localizador automatico de enderecos para atualizacoes compativeis do cliente.
+
+Caminhada confirmada no jogo pelo usuario; testes locais de navegacao, combos e escadas aprovados. Mudancas na estrutura das funcoes do cliente ainda podem exigir nova correcao. Telegram pessoal e arquivos pessoais nao acompanham a distribuicao.
+
+---
+
 ## Macrao dos Guri v1.2.33
 
 [Baixar a versao 1.2.33](https://github.com/Snones3/MacrosPoketibias/releases/tag/macrao-v1.2.33).
