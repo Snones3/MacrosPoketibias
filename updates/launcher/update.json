@@ -1,36 +1,38 @@
 {
-  "size": 1895324,
+  "version": "1.0.17",
+  "sha256": "276bf9c5614f820bb990dc041c8e3f402775d53da2c7463a92c07f815b49f7f0",
   "channel": "launcher-online",
+  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-v1.0.17/Macrao-Launcher.zip",
   "files": [
     {
       "file": "Launcher.exe",
       "size": 100352,
-      "sha256": "14de1f35b7010994accd9a53c4dce6d7928c7621b328b3560e701c8dc26f29c3"
+      "sha256": "fbc1695c3408e15133bf53b4c8cdc7b1b00cfab9f65569776b5609d84ad2e0fa"
     },
     {
       "file": "MacraoOnline.exe",
-      "size": 1218560,
-      "sha256": "2fe95b9c0dbd68d67aea965b006eaa2d21154c6081e827c1b24518ed293af9f9"
+      "size": 1222144,
+      "sha256": "c4c7aa7c85eec78bec6a00303669a3b95e6bee2146a5249dd881b1bbd25b882a"
     },
     {
       "file": "LauncherUpdater.exe",
       "size": 20480,
-      "sha256": "c6627684fb04a59a5feaf2d843ae756d2e6a0bc08b0bbfd7006f4a3301da4483"
+      "sha256": "0919d2363d3e9094129db40ada8fa3e53e75252fd484f14a8b4984ee98702553"
     },
     {
       "file": "RadarInjector.exe",
       "size": 303616,
-      "sha256": "d068ca98053dab294648a4a0d93ed40fd692a4b56d78ac924df5f950beac8830"
+      "sha256": "8e1093a4c8e726d43cc3c860e870d6747ae6db8f3e5cc1f2fbdd1af84b6d4f90"
     },
     {
       "file": "PokeRadar.dll",
-      "size": 420352,
-      "sha256": "084eb202cb63b5d3dbb545bf1da843ebaa368e920068cf3c689793082168effc"
+      "size": 436224,
+      "sha256": "0c676eab66013341cf48615cd027e52250e1a0e171c717bb6667ae701ee83e2f"
     },
     {
       "file": "PokeHPMonitor.dll",
-      "size": 312320,
-      "sha256": "d82d78ad8c30d5d440ae3284ba76897a8acc6862d16fb24dd4bb6e3e7273adee"
+      "size": 315904,
+      "sha256": "e79f8683d55fb7f6aac92b1d2783653eb81bdd2ad56826495b01104793c3feb4"
     },
     {
       "file": "alerta.mp3",
@@ -44,11 +46,9 @@
     },
     {
       "file": "LEIA-ME.txt",
-      "size": 4855,
-      "sha256": "1be17e4f2e43c503612229ce9111e7fe85bd19344810888453ba49fb21e8baf5"
+      "size": 2291,
+      "sha256": "9aec019fa68bebd9b96f04ab4df9f8c8f9bb1fbf31110a85b0338dd2f7f3ece7"
     }
   ],
-  "version": "1.0.16",
-  "sha256": "44a77e7d83ff05eaeff6050fafe81b3d976c0c77ac269624c722038f655e5b20",
-  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-v1.0.16/Macrao-Launcher.zip"
+  "size": 1907283
 }
