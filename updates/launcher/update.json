@@ -1,24 +1,22 @@
 {
   "channel": "launcher-online",
-  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-v1.0.18/Macrao-Launcher.zip",
-  "sha256": "a84c9e720126f274b64c03d3be287b8f7e32f903484c3847a513affdc477b997",
-  "version": "1.0.18",
-  "size": 1907504,
+  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-v1.0.19/Macrao-Launcher.zip",
+  "version": "1.0.19",
   "files": [
     {
       "file": "Launcher.exe",
       "size": 100352,
-      "sha256": "a75942d3b62cdbbd9192284f31ef2a75576dc51a4f13187d56de65867a33a951"
+      "sha256": "9460d4263680b46ee67a2c21f8d32b2896e16b2f184f54e0707d224c29d519f8"
     },
     {
       "file": "MacraoOnline.exe",
-      "size": 1222144,
-      "sha256": "b27846039cc192bac47c06546f99cc3560144ac2883d3b4b35a2cfedcf1cf89f"
+      "size": 1223680,
+      "sha256": "0a3488d8d78c7b14455748971e417ee7b6f9fb5ed5ab8006669ac66c19a4ff49"
     },
     {
       "file": "LauncherUpdater.exe",
       "size": 20480,
-      "sha256": "6438f619eaa62069ee7c9c0a67eb45ca6d2774a93b304fc1bfd5555dd2409f5c"
+      "sha256": "2a6035e27cdc5a207bbfb440003be4f11efdda0fdf8ca9d8268a68fcb9593b9c"
     },
     {
       "file": "RadarInjector.exe",
@@ -27,13 +25,13 @@
     },
     {
       "file": "PokeRadar.dll",
-      "size": 436736,
-      "sha256": "37286f1f2dae1ef9f33c0650eaece011437e00880d85fb0457d40721cbd71d90"
+      "size": 572416,
+      "sha256": "922feb2054c1a7aec32e1d4c625836ed51d1d5731c2df1e3f4027878cd4e67cd"
     },
     {
       "file": "PokeHPMonitor.dll",
-      "size": 315904,
-      "sha256": "e79f8683d55fb7f6aac92b1d2783653eb81bdd2ad56826495b01104793c3feb4"
+      "size": 451072,
+      "sha256": "99be4a160dee57e80ca05f7cc7d04aef3f7a8495f724f26affb34f23ca16877f"
     },
     {
       "file": "alerta.mp3",
@@ -47,8 +45,10 @@
     },
     {
       "file": "LEIA-ME.txt",
-      "size": 2427,
-      "sha256": "a9803b24cf412e6daf16432c8264e73d8ee5d19b506563483cfffed847dbb4cd"
+      "size": 2767,
+      "sha256": "bce3c9ff031b5aef45eae15ed4476ec5c1579d93da841f8f83929b6a80e512e1"
     }
-  ]
+  ],
+  "size": 1999429,
+  "sha256": "b0921e91fe0b56e74076a24001f7a9709957934b76ea24e09b662122c6b10a34"
 }
