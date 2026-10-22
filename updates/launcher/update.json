@@ -1,13 +1,13 @@
 {
-  "version": "1.0.21",
-  "sha256": "05d2f0c2574c85d4dc816419c50326a107ff3501c2a37e92fd28bce5cc8b8f79",
-  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-v1.0.21/Macrao-Launcher.zip",
+  "version": "1.0.22",
+  "size": 2270013,
   "channel": "launcher-online",
+  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-v1.0.22/Macrao-Launcher.zip",
   "files": [
     {
       "file": "Launcher.exe",
-      "size": 100352,
-      "sha256": "111d4151c239cda87acb702218a3b31d52109c2be5cf9779aff181b36f3b84e9"
+      "size": 107008,
+      "sha256": "20464038211aa68f08f20be2297ed6a9c8a01da79491a9b8601e7a5abc619eaf"
     },
     {
       "file": "MacraoOnline.exe",
@@ -16,8 +16,8 @@
     },
     {
       "file": "LauncherUpdater.exe",
-      "size": 20480,
-      "sha256": "9d93ee81a7a5a1b1fcfdeff98198124cc644668895d53231a00806c1507be9d7"
+      "size": 22016,
+      "sha256": "358235c559ad5d084c944f608058143895afcba4aa1a793f460ad7e3c022616f"
     },
     {
       "file": "RadarInjector.exe",
@@ -46,9 +46,9 @@
     },
     {
       "file": "LEIA-ME.txt",
-      "size": 4773,
-      "sha256": "4eac7740cd7a4b0e2513fec2866aa236c2bb5afecb6aaf66caefbb7e400784e9"
+      "size": 5253,
+      "sha256": "22558019e8120b99d3c19139bb65f4e45e809732fa81afcdc93f19fe991f2749"
     }
   ],
-  "size": 2266825
+  "sha256": "7349eb0ada5f10dc7a35376c8c9851248cb5e8a6ec1e67895bc4c441e827886c"
 }
