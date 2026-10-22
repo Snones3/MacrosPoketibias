@@ -1,20 +1,23 @@
 {
-  "sha256": "128f5e371962112766c4102c1552b9693e34c7f67ad5eab9536b01ad2ce6936f",
+  "version": "1.0.21",
+  "sha256": "05d2f0c2574c85d4dc816419c50326a107ff3501c2a37e92fd28bce5cc8b8f79",
+  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-v1.0.21/Macrao-Launcher.zip",
+  "channel": "launcher-online",
   "files": [
     {
       "file": "Launcher.exe",
       "size": 100352,
-      "sha256": "d503adedff10ec0e4fa4fe2095ae53e73805cd6d7afd1c01692e167b5ffeb277"
+      "sha256": "111d4151c239cda87acb702218a3b31d52109c2be5cf9779aff181b36f3b84e9"
     },
     {
       "file": "MacraoOnline.exe",
-      "size": 1650176,
-      "sha256": "e06a1e1735072bd3c436106fff7c7ea0d078dd6d1f9cf371153e33c326539e11"
+      "size": 1671680,
+      "sha256": "cfef30341deba095ef1aa210fcb56d2f852251068109600dd60b7eeda75259d2"
     },
     {
       "file": "LauncherUpdater.exe",
       "size": 20480,
-      "sha256": "2afd255f326aba2616ba2b46aed72ecd887648479e769396ad0fa128749c6895"
+      "sha256": "9d93ee81a7a5a1b1fcfdeff98198124cc644668895d53231a00806c1507be9d7"
     },
     {
       "file": "RadarInjector.exe",
@@ -23,8 +26,8 @@
     },
     {
       "file": "PokeRadar.dll",
-      "size": 572416,
-      "sha256": "922feb2054c1a7aec32e1d4c625836ed51d1d5731c2df1e3f4027878cd4e67cd"
+      "size": 629760,
+      "sha256": "06ba8130fd8219e3eb4756f097bde5ed43aa7fefd99833ab9aa0cd4a79f61120"
     },
     {
       "file": "PokeHPMonitor.dll",
@@ -43,12 +46,9 @@
     },
     {
       "file": "LEIA-ME.txt",
-      "size": 4075,
-      "sha256": "50933e3bc000f9b1f6eb19c9c2dd70edc10e00d31e4934e35ce7dca163fcd786"
+      "size": 4773,
+      "sha256": "4eac7740cd7a4b0e2513fec2866aa236c2bb5afecb6aaf66caefbb7e400784e9"
     }
   ],
-  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-v1.0.20/Macrao-Launcher.zip",
-  "channel": "launcher-online",
-  "version": "1.0.20",
-  "size": 2227890
+  "size": 2266825
 }
