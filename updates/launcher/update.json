@@ -1,23 +1,22 @@
 {
-  "version": "1.0.22",
-  "size": 2270013,
+  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-v1.0.23/Macrao-Launcher.zip",
+  "size": 2411607,
   "channel": "launcher-online",
-  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-v1.0.22/Macrao-Launcher.zip",
   "files": [
     {
       "file": "Launcher.exe",
       "size": 107008,
-      "sha256": "20464038211aa68f08f20be2297ed6a9c8a01da79491a9b8601e7a5abc619eaf"
+      "sha256": "3e4f94ea56cec2f53d630bd74c14899d23dd8f4ef88f67e712095f0eb830a67c"
     },
     {
       "file": "MacraoOnline.exe",
-      "size": 1671680,
-      "sha256": "cfef30341deba095ef1aa210fcb56d2f852251068109600dd60b7eeda75259d2"
+      "size": 1792512,
+      "sha256": "38dbf412edfbdfa9d991548142b11e5e29a3846c4ccdc4cc39f3c2e0c4c7bab4"
     },
     {
       "file": "LauncherUpdater.exe",
       "size": 22016,
-      "sha256": "358235c559ad5d084c944f608058143895afcba4aa1a793f460ad7e3c022616f"
+      "sha256": "e8beadffdfb375cdbfc7768531eeb6becdad0a8973e3e9ebc540b1bc8825d3a0"
     },
     {
       "file": "RadarInjector.exe",
@@ -26,13 +25,13 @@
     },
     {
       "file": "PokeRadar.dll",
-      "size": 629760,
-      "sha256": "06ba8130fd8219e3eb4756f097bde5ed43aa7fefd99833ab9aa0cd4a79f61120"
+      "size": 752640,
+      "sha256": "5dae26be1c1436510e175ef2a189eefe16c68e1be69499f3c8aaa90b5266e5fe"
     },
     {
       "file": "PokeHPMonitor.dll",
-      "size": 451072,
-      "sha256": "99be4a160dee57e80ca05f7cc7d04aef3f7a8495f724f26affb34f23ca16877f"
+      "size": 629760,
+      "sha256": "5babcdfd11df6e94a65782975203b05a61344c0b04a626f7e852649a920fa139"
     },
     {
       "file": "alerta.mp3",
@@ -46,9 +45,10 @@
     },
     {
       "file": "LEIA-ME.txt",
-      "size": 5253,
-      "sha256": "22558019e8120b99d3c19139bb65f4e45e809732fa81afcdc93f19fe991f2749"
+      "size": 5667,
+      "sha256": "a2e1d6d7b544f15f194426f330cd5629f7a84ddec2fb6e6588d011ca0d1e4a35"
     }
   ],
-  "sha256": "7349eb0ada5f10dc7a35376c8c9851248cb5e8a6ec1e67895bc4c441e827886c"
+  "sha256": "dac780aeb3ceb61d3daac9100f101c123fcb1339d6df3b5199b10305250a270d",
+  "version": "1.0.23"
 }
