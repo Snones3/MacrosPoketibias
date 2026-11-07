@@ -1,0 +1,79 @@
+{
+  "channel": "launcher-pxg",
+  "version": "2.0.0",
+  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-pxg-v2.0.0/Macrao2-Launcher.zip",
+  "size": 16512787,
+  "sha256": "5b73868348273d6c804a355a26fed7f2928926c655fcffccf968fecd2a137b82",
+  "files": [
+    {
+      "file": "Launcher.exe",
+      "size": 107520,
+      "sha256": "894c74a15fd3bb7e2d7eb9a889fbdcff54f133c58913b7ab23df6fc9970349f9"
+    },
+    {
+      "file": "Macrao2Online.exe",
+      "size": 50688,
+      "sha256": "e3660d3f8c17667022d6220c806a0f7fcef0b2b130c2f32cc83e7249a5ec5ac2"
+    },
+    {
+      "file": "LauncherUpdater.exe",
+      "size": 22528,
+      "sha256": "8ff1457b530817dac916bc91baf1a8ae9a7dc22df5c23fb9069b188aa6c1927b"
+    },
+    {
+      "file": "Macrao2App.exe",
+      "size": 15488406,
+      "sha256": "24ce6492e8c276668acbb24d1a28a66905d41185af8e17fb2d230bf9e822151c"
+    },
+    {
+      "file": "RevivePXG.dll",
+      "size": 167936,
+      "sha256": "ddca590fbb45ba6dedf6bb48354119a48c4513ec0811df2eca268a5ff8962173"
+    },
+    {
+      "file": "InspectorPXG.dll",
+      "size": 146432,
+      "sha256": "384862ca8b1eac6060964de62accae5c68818ae057caea940b86e463ef1bebb8"
+    },
+    {
+      "file": "CapturePXG.dll",
+      "size": 147968,
+      "sha256": "ff8d6b50f9f3587ba18db7fb20294f2c0f308aeb993e3b6e0c9a5ecd6670d63c"
+    },
+    {
+      "file": "FishingPXG.dll",
+      "size": 145920,
+      "sha256": "7a54bb2dd3cb73ec4dcfccae39806081d880b1e87f0abd4c11441df7c84b460d"
+    },
+    {
+      "file": "profile-pxg.json",
+      "size": 3756,
+      "sha256": "05978535197aba03dcb4be449f4646db6d1f7ca81401417e3fd9c7a082626b3d"
+    },
+    {
+      "file": "bundle-pxg.json",
+      "size": 1867,
+      "sha256": "989e8d19c314295b3ad306dd6e41858b7cbdd30fc86fd3c196c6ac646f3b7a18"
+    },
+    {
+      "file": "fishing-pxg.json",
+      "size": 279,
+      "sha256": "5b495ca2f95e6ee8f42d0399f8e09dabb0608b45bb4225d2dba73d0c1b565340"
+    },
+    {
+      "file": "alerta.mp3",
+      "size": 734772,
+      "sha256": "55fea092422ce8967f74f0cbb0252a080ccb694139cf03a8ecdb1562dc797f5e"
+    },
+    {
+      "file": "Parou.mp3",
+      "size": 110759,
+      "sha256": "68402e3e50efa0ce0fceac660ac755ec7f8091859f4add07539e7e4ddae07bb0"
+    },
+    {
+      "file": "LEIA-ME.txt",
+      "size": 693,
+      "sha256": "4d0ee3c288629e4dab4136991c982acea34adfe69bc2649fe48b0a720b757fbb"
+    }
+  ]
+}
