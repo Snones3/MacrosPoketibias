@@ -1,29 +1,29 @@
 {
   "channel": "launcher-pxg",
-  "version": "2.0.0",
-  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-pxg-v2.0.0/Macrao2-Launcher.zip",
-  "size": 16512787,
-  "sha256": "5b73868348273d6c804a355a26fed7f2928926c655fcffccf968fecd2a137b82",
+  "version": "2.0.1",
+  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-pxg-v2.0.1/Macrao2-Launcher.zip",
+  "size": 16516016,
+  "sha256": "5e5cc7d2940c4de9cff3b08629935b723e43456c83f67b02efc71326b22759f6",
   "files": [
     {
       "file": "Launcher.exe",
       "size": 107520,
-      "sha256": "894c74a15fd3bb7e2d7eb9a889fbdcff54f133c58913b7ab23df6fc9970349f9"
+      "sha256": "ab9e12da93419a40e036637d561310fcfb52b69002c5877658a558c4577aeafd"
     },
     {
       "file": "Macrao2Online.exe",
       "size": 50688,
-      "sha256": "e3660d3f8c17667022d6220c806a0f7fcef0b2b130c2f32cc83e7249a5ec5ac2"
+      "sha256": "c55cb58fb11206416f8a0ef194e7a87e1e9566f28deb2d7118bdec3c8c0a97ea"
     },
     {
       "file": "LauncherUpdater.exe",
       "size": 22528,
-      "sha256": "8ff1457b530817dac916bc91baf1a8ae9a7dc22df5c23fb9069b188aa6c1927b"
+      "sha256": "8f3192e0e8b2241ecab7e764ce5168774baec79032523e69844707ff793b1b4d"
     },
     {
       "file": "Macrao2App.exe",
-      "size": 15488406,
-      "sha256": "24ce6492e8c276668acbb24d1a28a66905d41185af8e17fb2d230bf9e822151c"
+      "size": 15492007,
+      "sha256": "6e00a6b247d2b2a9a2dff7333a2d4dd899efa5bb602f0e648a11ceec2e9921d7"
     },
     {
       "file": "RevivePXG.dll",
