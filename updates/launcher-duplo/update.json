@@ -1,0 +1,119 @@
+{
+  "channel": "launcher-duplo",
+  "version": "2.2.1",
+  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-duplo-v2.2.1/Macrao-Launcher.zip",
+  "size": 52829157,
+  "sha256": "a9bb47c813f741b2ed4760748c94f6f00e7dad80d3801308ec54bdaddc7d38a0",
+  "files": [
+    {
+      "file": "Launcher.exe",
+      "size": 129024,
+      "sha256": "d56e64c9689e260b8645f0e375ffa299bd8dfbd9c2ef4c507f6e71f6e834129b"
+    },
+    {
+      "file": "Macrao2Online.exe",
+      "size": 52736,
+      "sha256": "d811497400aed9fdd6f05731b732d53c11a823268f06825419225c4cfb62460d"
+    },
+    {
+      "file": "LauncherUpdater.exe",
+      "size": 23552,
+      "sha256": "9ffb7cc23e96509aac99ed494f13b2a764d9e848107b05cfae9acac828e0e622"
+    },
+    {
+      "file": "Macrao2App.exe",
+      "size": 15621516,
+      "sha256": "4fbfe9047cefaa2610149aba6a53915dcb5d875f9c5d6cace6716ee74bebfc16"
+    },
+    {
+      "file": "RevivePXG.dll",
+      "size": 167936,
+      "sha256": "67696e81d80f3e20df820c808bb6ffd84abd1a5773c8810976f69fd46fb6bb67"
+    },
+    {
+      "file": "InspectorPXG.dll",
+      "size": 146432,
+      "sha256": "7a482dca863757b3f7a47e745bfe7139caf6df0da1dd7fb24d50184b82884bdb"
+    },
+    {
+      "file": "CapturePXG.dll",
+      "size": 147968,
+      "sha256": "6b16e02fde9b33be00e5d7ea1100cad2760770af346f3ec3098527f9242a1275"
+    },
+    {
+      "file": "FishingPXG.dll",
+      "size": 145920,
+      "sha256": "8ac7e1b1245271ffeb39d617870326541a094b68e7b5482f211431c6ce2f4353"
+    },
+    {
+      "file": "profile-pxg.json",
+      "size": 3920,
+      "sha256": "ed9e1f7a03c061fee022c029874a3c6954d915f5608317174c8bd7a6c89eeaab"
+    },
+    {
+      "file": "bundle-pxg.json",
+      "size": 1867,
+      "sha256": "5334483874df0d761e44d6fc5ac45fa106d208652225c0f2432d5958713c7b3e"
+    },
+    {
+      "file": "fishing-pxg.json",
+      "size": 331,
+      "sha256": "b821aaec12c63c4e69ca3a659cccb03c35962e06ab187e673678e99e57990788"
+    },
+    {
+      "file": "alerta.mp3",
+      "size": 734772,
+      "sha256": "55fea092422ce8967f74f0cbb0252a080ccb694139cf03a8ecdb1562dc797f5e"
+    },
+    {
+      "file": "Parou.mp3",
+      "size": 110759,
+      "sha256": "68402e3e50efa0ce0fceac660ac755ec7f8091859f4add07539e7e4ddae07bb0"
+    },
+    {
+      "file": "LEIA-ME.txt",
+      "size": 1138,
+      "sha256": "57ccab1c3c67373321c2a6c78290230eb72cb91bfcf6734bef9beeab519f5232"
+    },
+    {
+      "file": "Alliance/MacraoOnline.exe",
+      "size": 2093056,
+      "sha256": "0ebf11861c5b7c1a4f3efaf1d6ed518e866325f2c92f8d872ac5481d77c3ab9a"
+    },
+    {
+      "file": "Alliance/RadarInjector.exe",
+      "size": 303616,
+      "sha256": "16b32dc7ded174b8ac21dd0041174a4ef74baa8169394518254369c42c658c5c"
+    },
+    {
+      "file": "Alliance/PokeHPMonitor.dll",
+      "size": 895488,
+      "sha256": "c17f3e683e8c0968096b8289776b3b1d4961d23ef2c0494ee812073d7413297b"
+    },
+    {
+      "file": "Alliance/PokeRadar.dll",
+      "size": 1022976,
+      "sha256": "07628cce4ad37c406400f751ba29375543f7d4e85e9e434aad2f81ae840eae2d"
+    },
+    {
+      "file": "Alliance/client-reference-48c41bd4.bin",
+      "size": 38159360,
+      "sha256": "7e96fb2b8b54fbe51cb967ecb7d57c5a660d99f03b7aaecaed1c26241f9e5683"
+    },
+    {
+      "file": "Alliance/client-reference-82eadedc.bin",
+      "size": 38147072,
+      "sha256": "5aa4683444e2890dc8502b3a8c05e63e35116d184f88d7f0db4a97298ef52e68"
+    },
+    {
+      "file": "Alliance/alerta.mp3",
+      "size": 734772,
+      "sha256": "55fea092422ce8967f74f0cbb0252a080ccb694139cf03a8ecdb1562dc797f5e"
+    },
+    {
+      "file": "Alliance/Parou.mp3",
+      "size": 110759,
+      "sha256": "68402e3e50efa0ce0fceac660ac755ec7f8091859f4add07539e7e4ddae07bb0"
+    }
+  ]
+}
