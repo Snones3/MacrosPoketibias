@@ -1,29 +1,29 @@
 {
   "channel": "launcher-duplo",
-  "version": "2.2.1",
-  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-duplo-v2.2.1/Macrao-Launcher.zip",
-  "size": 52829157,
-  "sha256": "a9bb47c813f741b2ed4760748c94f6f00e7dad80d3801308ec54bdaddc7d38a0",
+  "version": "2.2.2",
+  "url": "https://github.com/Snones3/MacrosPoketibias/releases/download/launcher-duplo-v2.2.2/Macrao-Launcher.zip",
+  "size": 52829185,
+  "sha256": "e690249f99cf19f0a09056d7dc1f8c92442367b4bd39f44916109254909f46bf",
   "files": [
     {
       "file": "Launcher.exe",
       "size": 129024,
-      "sha256": "d56e64c9689e260b8645f0e375ffa299bd8dfbd9c2ef4c507f6e71f6e834129b"
+      "sha256": "d9ebc855038ab433cb8bb8d440620d4f5e1d9a214c18ac3eabf1d897558ca648"
     },
     {
       "file": "Macrao2Online.exe",
       "size": 52736,
-      "sha256": "d811497400aed9fdd6f05731b732d53c11a823268f06825419225c4cfb62460d"
+      "sha256": "221894b1e69ed6e093ba71e0300a813cbb412cf7c7c870bd9c030cd3a5a1233c"
     },
     {
       "file": "LauncherUpdater.exe",
       "size": 23552,
-      "sha256": "9ffb7cc23e96509aac99ed494f13b2a764d9e848107b05cfae9acac828e0e622"
+      "sha256": "59fa82f459c2c466e1c12a5625a39746145e33f6e4ae40647241701bc266dc54"
     },
     {
       "file": "Macrao2App.exe",
-      "size": 15621516,
-      "sha256": "4fbfe9047cefaa2610149aba6a53915dcb5d875f9c5d6cace6716ee74bebfc16"
+      "size": 15622170,
+      "sha256": "12a3741335c06e184903a374ec172200421cbb1e53c83ec58172aff14d1393d7"
     },
     {
       "file": "RevivePXG.dll",
